@@ -1,0 +1,12 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: #E2FFFF;
+}
+img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
